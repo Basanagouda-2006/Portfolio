@@ -46,7 +46,7 @@ This portfolio is my *first project*, and I will continue updating it as I gain 
 ## 🌐 Live Website
 
 🔗 *Portfolio Live Link:*  
-https://basanagouda-2006.github.io/portfolio/
+https://basanagouda-2006.github.io/Portfolio/
 
 ---
 
